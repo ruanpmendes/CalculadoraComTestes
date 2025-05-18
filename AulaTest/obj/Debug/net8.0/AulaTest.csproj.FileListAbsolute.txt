@@ -1,0 +1,12 @@
+/workspaces/CalculadoraComTestes/AulaTest/bin/Debug/net8.0/AulaTest.deps.json
+/workspaces/CalculadoraComTestes/AulaTest/bin/Debug/net8.0/AulaTest.dll
+/workspaces/CalculadoraComTestes/AulaTest/bin/Debug/net8.0/AulaTest.pdb
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/AulaTest.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/AulaTest.AssemblyInfoInputs.cache
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/AulaTest.AssemblyInfo.cs
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/AulaTest.csproj.CoreCompileInputs.cache
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/AulaTest.sourcelink.json
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/AulaTest.dll
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/refint/AulaTest.dll
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/AulaTest.pdb
+/workspaces/CalculadoraComTestes/AulaTest/obj/Debug/net8.0/ref/AulaTest.dll
